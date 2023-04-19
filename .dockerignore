@@ -1,0 +1,12 @@
+**/.git
+.idea/*
+media/*
+*__pycache__*
+
+# Exclude django migration files
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
+# Exclude pytest cache
+*.pytest_cache
