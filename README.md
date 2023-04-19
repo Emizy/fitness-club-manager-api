@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Project specification
 
 ## Aim
@@ -7,7 +6,7 @@
 
 ## Brief description scenarios
 
-We’ve found the need to develop a basic system to manage invoices and track our users as they checkin to our fitness
+To develop a basic system to manage invoices and track our users as they check-in to fitness
 clubs.
 
 ## PROJECT DIRECTORY OUTLINE
@@ -104,7 +103,4 @@ out
     Python Django
     postgresSql
     pytest
-=======
-# fitness-club-manager-api
-Develop a basic system to manage invoices and track our users as they check-in to  fitness clubs.
->>>>>>> main
+
